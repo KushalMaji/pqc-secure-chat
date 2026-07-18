@@ -1,5 +1,9 @@
+# Compiled executables
 client
 server
-final_client
-final_server
+
+# Object files
 *.o
+
+# Backup files
+*~
