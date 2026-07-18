@@ -115,11 +115,11 @@ to terminate the chat.
 
 ## Screenshots
 
-<img width="959" height="539" alt="wait" src="https://github.com/user-attachments/assets/a2a3367d-0d93-458f-a496-59e78607c0e1" />
-<img width="959" height="539" alt="client" src="https://github.com/user-attachments/assets/3586f973-d10d-45d8-a5e0-0136614d517e" />
-<img width="959" height="539" alt="connection_established" src="https://github.com/user-attachments/assets/798734c4-13b7-4b24-bce1-e7e2743511f2" />
-<img width="959" height="535" alt="mssg_server" src="https://github.com/user-attachments/assets/4d391a1c-e4ff-4fd1-ba57-b794f3b9f2b2" />
-<img width="959" height="539" alt="mssg_client" src="https://github.com/user-attachments/assets/0fd6ad40-ecc1-4f28-86fc-8fa8851491f0" />
+<img src="https://github.com/user-attachments/assets/a2a3367d-0d93-458f-a496-59e78607c0e1" width="450">
+<img src="https://github.com/user-attachments/assets/3586f973-d10d-45d8-a5e0-0136614d517e" width="450">
+
+<img src="https://github.com/user-attachments/assets/798734c4-13b7-4b24-bce1-e7e2743511f2" width="450">
+<img src="https://github.com/user-attachments/assets/4d391a1c-e4ff-4fd1-ba57-b794f3b9f2b2" width="450">
 
 ---
 
