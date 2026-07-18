@@ -121,7 +121,7 @@ to terminate the chat.
 <img src="https://github.com/user-attachments/assets/798734c4-13b7-4b24-bce1-e7e2743511f2" width="450">
 <img src="https://github.com/user-attachments/assets/4d391a1c-e4ff-4fd1-ba57-b794f3b9f2b2" width="450">
 
-<img width="900" height="506" alt="mssg_client" src="https://github.com/user-attachments/assets/1b213c9a-c60e-485e-bda3-edd6c14d26cc" />
+<img src="https://github.com/user-attachments/assets/1b213c9a-c60e-485e-bda3-edd6c14d26cc" width="450">
 
 ---
 
