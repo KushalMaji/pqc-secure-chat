@@ -1,0 +1,5 @@
+client
+server
+final_client
+final_server
+*.o
